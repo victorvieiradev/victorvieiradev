@@ -1,4 +1,4 @@
-## Olá eu sou o Victor Vieira, trabalho atualmente como desenvolvedor back end. 
+##Oi, eu sou o Victor e atualmente trabalho com java e spring no back end.
 <div align="center">
   <a href="https://github.com/victorvieiradev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorvieiradev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,7 +8,6 @@
 ##
   
 <div style="display: inline_block"><br>
-  
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
